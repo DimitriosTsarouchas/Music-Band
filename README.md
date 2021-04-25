@@ -1,2 +1,1 @@
-# css-scss
-A CSS / SASS project.
+# Music Band
